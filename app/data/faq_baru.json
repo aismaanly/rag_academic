@@ -1,0 +1,50 @@
+[
+  {
+    "pertanyaan": "Berapa SKS maksimal yang boleh diambil mahasiswa dengan IP di bawah 2.00?",
+    "jawaban": "Mahasiswa dengan Indeks Prestasi (IP) di bawah 2.00 hanya diperbolehkan mengambil beban studi maksimal 15 SKS.",
+    "kategori": "SKS dan Beban Studi",
+    "keywords": "sks, ip rendah, beban studi, batas sks"
+  },
+  {
+    "pertanyaan": "Berapa SKS maksimal yang boleh diambil mahasiswa dengan IP 3.00 ke atas?",
+    "jawaban": "Mahasiswa dengan Indeks Prestasi (IP) 3.00 atau lebih diperbolehkan mengambil beban studi maksimal 24 SKS.",
+    "kategori": "SKS dan Beban Studi",
+    "keywords": "sks, ip tinggi, beban studi, 24 sks"
+  },
+  {
+    "pertanyaan": "Berapa SKS yang dapat diambil mahasiswa baru pada semester pertama?",
+    "jawaban": "Mahasiswa baru pada semester 1 dan 2 dapat mengambil beban studi paling banyak 20 SKS atau mengikuti sistem paket yang ditentukan.",
+    "kategori": "SKS dan Beban Studi",
+    "keywords": "maba, mahasiswa baru, semester 1, paket"
+  },
+  {
+    "pertanyaan": "Bagaimana ketentuan beban studi pada semester antara?",
+    "jawaban": "Beban belajar mahasiswa pada Semester Antara (Semester Pendek) ditetapkan paling banyak 9 (sembilan) SKS.",
+    "kategori": "SKS dan Beban Studi",
+    "keywords": "semester antara, semester pendek, sp, 9 sks"
+  },
+  {
+    "pertanyaan": "Jika mahasiswa mengulang mata kuliah, nilai mana yang diambil?",
+    "jawaban": "Apabila mahasiswa mengulang mata kuliah, maka nilai yang diakui dan digunakan dalam transkrip adalah nilai yang terbaik (tertinggi).",
+    "kategori": "Penilaian",
+    "keywords": "mengulang, perbaikan nilai, nilai terbaik, transkrip"
+  },
+  {
+    "pertanyaan": "Apa syarat untuk mengambil tugas akhir atau skripsi?",
+    "jawaban": "Syarat mengambil skripsi antara lain: telah menyelesaikan mata kuliah prasyarat, IPK minimal 2.00, lulus Metodologi Penelitian, lulus KKN & Magang, serta memiliki sertifikat kemampuan Bahasa Inggris (TOEFL 450/setara).",
+    "kategori": "Tugas Akhir",
+    "keywords": "syarat skripsi, tugas akhir, toefl, ipk"
+  },
+  {
+    "pertanyaan": "Kapan mahasiswa dinyatakan putus studi (Drop Out)?",
+    "jawaban": "Mahasiswa dinyatakan DO jika melebihi batas studi 7 tahun (14 semester), tidak aktif selama 2 semester berturut-turut, atau terkena sanksi pelanggaran berat.",
+    "kategori": "Status Mahasiswa",
+    "keywords": "do, drop out, putus studi, batas studi"
+  },
+  {
+    "pertanyaan": "Berapa lama masa cuti akademik yang diperbolehkan?",
+    "jawaban": "Cuti akademik dapat diberikan sekurang-kurangnya 1 semester dan sebanyak-banyaknya 2 semester (tidak berturut-turut), kecuali alasan khusus.",
+    "kategori": "Cuti Akademik",
+    "keywords": "cuti, masa cuti, istirahat kuliah"
+  }
+]
