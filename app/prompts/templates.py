@@ -14,7 +14,7 @@ rephrase_chain = rephrase_prompt | llm
 
 chat_prompt = ChatPromptTemplate.from_messages([
     ("system", 
-     "Kamu adalah Roxy AI, asisten virtual resmi dari TEST Gold. "
+     "Kamu adalah Yupien AI, asisten virtual resmi dari TEST Gold. "
      "Jawaban kamu harus profesional, jelas, akurat, dan selalu dalam bahasa Indonesia. "
      "Jawaban HANYA boleh berdasarkan data dari RAG (`db_faq_baru_3`)."),
     ("human", 
